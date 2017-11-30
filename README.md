@@ -2,18 +2,24 @@
 
 [Iceberg Challenge Kaggle Link](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
 
-## grober Zeitplan:
+## Grober Zeitplan:
   Woche 
-    48 - Planung, Datensatz analysieren, Architekturen recherchieren, 
-    49 - Architektur entscheiden
-       - vorläufiges System aufsetzen (Server)
-    50 - Server klar machen
-       - Implementieren
-    51 - Implementieren
-       - Ende der der Woche: AWS testlauf
+    - 48 
+    	- Planung, Datensatz analysieren, Architekturen recherchieren, 
+    - 49 
+    	- Architektur entscheiden
+    	- vorläufiges System aufsetzen (Server)
+    50 
+    	- Server klar machen
+    	- Implementieren
+    51 
+    	- Implementieren
+    	- Ende der der Woche: AWS testlauf
     Feiertage => erste Resultate
-    1  - verbessern/Optimieren
-    2  - verbessern/Optimieren
+    1  
+    	- verbessern/Optimieren
+    2  
+    	- verbessern/Optimieren
     
     
 ## Arbeitsform: 
@@ -22,7 +28,7 @@
     5.12. Architektur entscheiden und ob mit oder ohne geglättetes Datensatz. Bitte alle da sein!! ;P können dann ja auch nochmal mit Voigt besprechen, ob unsere Überlegungen sinnvoll sind.
     
 
-## ToDos:
+## Aktuelle ToDos:
     - [ ] Daten einlesen
     - [ ] sinnvolle Architektur recherchieren
     - [ ] Datensatz analysieren (Franzi)
@@ -39,5 +45,11 @@
     
     
 ## Mögliche Optimierungen:
+   - Regularisierung
+   - Data Augmentation
    - Aktivierungsfunktion ReLu
-   - Dropout - Yes/ No?
+   - Dropout
+   - Lernrate
+   - Rate Adaption
+   - Momentum
+   - Softmax
