@@ -1,3 +1,10 @@
-input/*
+#jupyter notebook checkpoints
 .ipynb_checkpoints
+#inteliJ idea project files
 .idea
+
+#input data 
+input/*
+
+#trained models
+models/*
